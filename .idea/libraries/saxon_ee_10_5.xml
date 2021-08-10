@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="saxon-ee-10.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Saxonica/SaxonEE10-5J/saxon-ee-10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
