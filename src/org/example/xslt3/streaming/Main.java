@@ -17,6 +17,6 @@ public class Main {
 
         XdmAtomicValue result = (XdmAtomicValue)transformer.applyTemplates(new StreamSource("sample1.xml"));
 
-        System.out.println(result.getDoubleValue());
+        System.out.println(result.getLongValue());
     }
 }
